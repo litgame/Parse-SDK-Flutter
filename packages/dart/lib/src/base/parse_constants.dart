@@ -49,7 +49,7 @@ const String keyHeaderApplicationId = 'X-Parse-Application-Id';
 const String keyHeaderContentType = 'content-type';
 const String keyHeaderContentTypeJson = 'application/json';
 const String keyHeaderMasterKey = 'X-Parse-Master-Key';
-const String keyHeaderClientKey = 'X-Parse-Client-Key';
+const String keyHeaderClientKey = 'X-Parse-REST-API-Key';
 const String keyHeaderInstallationId = 'X-Parse-Installation-Id';
 
 // URL params
